@@ -1,0 +1,33 @@
+{
+  "nav": {
+    "projects": "Projects",
+    "socials": "Social",
+    "about": "About me",
+    "contact": "Contact"
+  },
+  "hero": {
+    "intro": "Hello 👋, my name is",
+    "message": "I'm a computer science engineer, currently working as a technical leader specialist / software developer. Always searching to improve my career with projects based on technologies I have extensive experience in, with new challenges and a friendly work environment, preferring remote positions.",
+    "location": "Alicante, Spain"
+  },
+  "project": {
+    "tech": "Tech",
+    "links": "Links",
+    "inProgress": "IN PROGRESS",
+    "prev": "Previous",
+    "next": "Next",
+    "back": "Back to projects"
+  },
+  "about": {
+    "p1": "I'm Iván Pastor Simarro, a technical leader specialist / software developer with a backend profile. I have experience with PHP (Laravel, Symfony), Java (Spring) and Vue.js, and I enjoy building projects from design to production.",
+    "p2": "Outside of work I play piano and synths, and in recent years I've been travelling, especially interested in Japanese culture.",
+    "stack": "Common stack"
+  },
+  "contact": {
+    "text": "The best way to reach me is LinkedIn.",
+    "button": "Contact me on LinkedIn"
+  },
+  "footer": {
+    "made": "Built with React + Mantine"
+  }
+}

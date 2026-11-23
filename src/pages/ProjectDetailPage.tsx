@@ -147,7 +147,9 @@ export function ProjectDetailPage() {
       <Anchor component={Link} to="/" c="dimmed" fz="sm">
         ← {t('project.back')}
       </Anchor>
-      <ProjectBody project={project} />
+      <Box className="glass-panel" mt="md">
+        <ProjectBody project={project} />
+      </Box>
     </Container>
   );
 }

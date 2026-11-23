@@ -9,6 +9,7 @@ export function SocialCard({ social }: { social: Social }) {
       href={social.url}
       target="_blank"
       rel="noopener noreferrer"
+      className="glass-card"
       shadow="sm"
       padding="lg"
       radius="md"

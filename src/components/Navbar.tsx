@@ -65,12 +65,12 @@ export function Navbar() {
   return (
     <Box
       component="header"
+      className="glass-nav"
       style={{
         position: 'sticky',
         top: 0,
         zIndex: 100,
         borderBottom: '1px solid var(--mantine-color-default-border)',
-        backgroundColor: 'var(--mantine-color-body)',
       }}
     >
       <Group h={60} px="md" justify="space-between">

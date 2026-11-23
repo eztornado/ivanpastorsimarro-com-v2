@@ -7,8 +7,8 @@
   },
   "hero": {
     "intro": "Hello 👋, my name is",
-    "message": "I'm a computer science engineer, currently working as a technical leader specialist / software developer. Always searching to improve my career with projects based on technologies I have extensive experience in, with new challenges and a friendly work environment, preferring remote positions.",
-    "location": "Alicante, Spain"
+    "message": "I'm a computer science engineer, currently working as a technical leader specialist / software developer. I live in Katsushika, Tokyo, and I'm always looking to grow through projects built on technologies I know deeply, with new challenges and a friendly work environment, preferring remote positions.",
+    "location": "Katsushika, Tokyo, Japan"
   },
   "project": {
     "tech": "Tech",
@@ -19,8 +19,8 @@
     "back": "Back to projects"
   },
   "about": {
-    "p1": "I'm Iván Pastor Simarro, a technical leader specialist / software developer with a backend profile. I have experience with PHP (Laravel, Symfony), Java (Spring) and Vue.js, and I enjoy building projects from design to production.",
-    "p2": "Outside of work I play piano and synths, and in recent years I've been travelling, especially interested in Japanese culture.",
+    "p1": "I'm Iván Pastor Simarro, a technical leader specialist / software developer with a backend profile. I have experience with PHP (Laravel, Symfony), Java (Spring), Rust, Python and React, and I enjoy building projects from design to production.",
+    "p2": "I currently live in Katsushika, Tokyo, where I combine my work with learning the Japanese language and culture. Outside of work I play piano and synths, and I keep travelling whenever I can.",
     "stack": "Common stack"
   },
   "contact": {

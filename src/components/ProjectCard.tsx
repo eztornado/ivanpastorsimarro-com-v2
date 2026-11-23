@@ -20,6 +20,7 @@ export function ProjectCard({ project }: { project: Project }) {
     <Card
       component={Link}
       to={`/projects/${project.slug}`}
+      className="glass-card"
       shadow="sm"
       padding="lg"
       radius="md"

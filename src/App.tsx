@@ -5,6 +5,8 @@ import { Navbar } from './components/Navbar';
 import { Footer } from './components/Footer';
 import { HomePage } from './pages/HomePage';
 import { ProjectDetailPage } from './pages/ProjectDetailPage';
+// Tokyo night skyline (Roppongi seen from Shibuya Stream) — Syced, CC0, Wikimedia Commons.
+import tokyoNight from './assets/images/tokyo-night.jpg';
 
 export default function App() {
   const { i18n } = useTranslation();
@@ -20,6 +22,9 @@ export default function App() {
 
   return (
     <>
+      <div className="tokyo-bg" aria-hidden="true">
+        <img src={tokyoNight} alt="" />
+      </div>
       <Navbar />
       <Routes>
         <Route path="/" element={<HomePage />} />

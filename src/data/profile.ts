@@ -5,5 +5,5 @@ export const profile = {
   name: 'Iván Pastor Simarro',
   portrait: ivanPortrait,
   aboutPhoto: ivanAbout,
-  techStack: ['PHP', 'VueJs', 'Java', 'Mysql', 'Javascript', 'NodeJs'],
+  techStack: ['PHP', 'Java', 'Rust', 'Python', 'React', 'VueJs', 'Javascript', 'NodeJs', 'Mysql'],
 };

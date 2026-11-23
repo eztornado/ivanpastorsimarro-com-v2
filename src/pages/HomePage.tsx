@@ -22,7 +22,15 @@ export function HomePage() {
 
   return (
     <Container size="lg">
-      <Group id="inicio" justify="space-between" align="center" py="xl" wrap="nowrap" gap="lg">
+      <Group
+        id="inicio"
+        className="glass-panel hero-panel"
+        justify="space-between"
+        align="center"
+        my="xl"
+        wrap="nowrap"
+        gap="lg"
+      >
         <Stack gap="sm">
           <Text c="dimmed">{t('hero.intro')}</Text>
           <Title order={1}>{profile.name}</Title>

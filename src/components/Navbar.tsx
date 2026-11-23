@@ -10,6 +10,7 @@ import {
   Group,
   SegmentedControl,
   Stack,
+  Text,
   Title,
   useComputedColorScheme,
   useMantineColorScheme,
@@ -82,9 +83,12 @@ export function Navbar() {
           }}
           style={{ textDecoration: 'none' }}
         >
-          <Title order={3} style={{ fontFamily: "'Reenie Beanie', cursive", fontSize: 34 }}>
-            ip.
-          </Title>
+          <Group wrap="nowrap" gap="xs" align="center">
+            <Title order={3} style={{ fontFamily: "'Reenie Beanie', cursive", fontSize: 34 }}>
+              ip.
+            </Title>
+            <Text fz="sm" c="dimmed" visibleFrom="sm">{t('hero.name')}</Text>
+          </Group>
         </Anchor>
 
         <Group gap="md" visibleFrom="sm">

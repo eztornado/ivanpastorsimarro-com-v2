@@ -7,6 +7,8 @@
   },
   "hero": {
     "intro": "Hola 👋, me llamo",
+    "name": "Iván Pastor Simarro",
+    "suffix": "",
     "message": "Soy ingeniero informático y actualmente trabajo como technical leader specialist / desarrollador de software. Vivo en Katsushika, Tokio, y busco siempre mejorar mi carrera con proyectos basados en tecnologías en las que tengo amplia experiencia, con nuevos retos y un buen ambiente de trabajo, prefiriendo posiciones remotas.",
     "location": "Katsushika, Tokio, Japón"
   },

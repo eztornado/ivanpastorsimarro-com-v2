@@ -32,8 +32,10 @@ export function HomePage() {
         gap="lg"
       >
         <Stack gap="sm">
-          <Text c="dimmed">{t('hero.intro')}</Text>
-          <Title order={1}>{profile.name}</Title>
+          <Group wrap="nowrap" gap="xs">
+            <Text c="dimmed">{t('hero.intro')}</Text>
+            <Title order={1}>{t('hero.name')}{t('hero.suffix')}</Title>
+          </Group>
           <Text maw={520}>{t('hero.message')}</Text>
           <Text c="dimmed" fz="sm">📍 {t('hero.location')}</Text>
         </Stack>

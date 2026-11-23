@@ -7,6 +7,8 @@
   },
   "hero": {
     "intro": "Hello 👋, my name is",
+    "name": "Iván Pastor Simarro",
+    "suffix": "",
     "message": "I'm a computer science engineer, currently working as a technical leader specialist / software developer. I live in Katsushika, Tokyo, and I'm always looking to grow through projects built on technologies I know deeply, with new challenges and a friendly work environment, preferring remote positions.",
     "location": "Katsushika, Tokyo, Japan"
   },
